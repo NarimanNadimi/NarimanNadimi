@@ -1,175 +1,129 @@
-# Nariman Nadimi
+# Nariman Nadimi 👋
 
-### Web Developer | Software Developer | Data & Python
+### Web Developer • Software Developer • Python & Data • AI & Automation
 
-📍 Shiraz, Iran
+📍 Shiraz, Iran  
+📧 **narimannadimi2009@gmail.com**
 
-I’m Nariman Nadimi, a Web & Software Developer focused on building websites, e-commerce platforms, custom business software, data-driven solutions, and AI-powered automation.
-
-I work independently across the project lifecycle — from understanding requirements and designing the solution to development, implementation, customization, and delivery.
-
----
-
-## 🚀 What I Do
-
-### 🌐 Web Development
-- Corporate and personal websites
-- E-commerce stores
-- Service websites
-- Custom web applications
-- Website development and customization
-
-### 💻 Software Development
-- Custom business software
-- CRM & ERP systems
-- Management dashboards
-- Customer and information management systems
-- Business-specific software solutions
-
-### 🐍 Python & Data
-- Data analysis and processing
-- Data cleaning and preparation
-- Structured dataset analysis
-- Excel and tabular data processing
-- Data visualization and analytical reporting
-- Preparing data for Machine Learning workflows
-
-### 🤖 AI & Automation
-- AI API integration
-- LLM-powered features
-- AI application development
-- RAG and AI Agents
-- Business process automation
-- n8n workflow automation
-
-### 🎨 Graphic Design
-- Logo design
-- Digital graphic design
+I build **websites, e-commerce platforms, business software, data-driven solutions, and AI-powered applications**. I enjoy turning real business requirements into practical, scalable software.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Build
 
-### Web Development
-- **HTML** — Professional
-- **CSS** — Professional
-- **JavaScript** — Very Good
-- **React** — Very Good
-- **Git & GitHub** — Good
-
-### Python & Data
-- **Python** — Professional
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
-- **Scikit-learn**
-- Excel & structured/tabular data
-
-### WordPress & E-commerce
-- **WordPress** — Professional
-- **WooCommerce**
-- **Elementor / Elementor Pro**
-- **JetPlugins**
-- **JetSmartFilters**
-- Dynamic Content
-- Advanced Product Filtering
-- WooCommerce customization
-- Plugin configuration & integration
-- Custom website functionality
-
-### AI & Automation
-- **AI APIs** — Good
-- **LLM** — Very Good
-- **RAG** — Good
-- **AI Agents** — Good
-- **n8n** — Good
-- Business Process Automation
+- 🌐 **Web Applications** — HTML, CSS, JavaScript, React
+- 🛒 **E-commerce** — WordPress, WooCommerce, Elementor
+- 💻 **Business Software** — CRM, ERP, dashboards and management systems
+- 🐍 **Python & Data** — data analysis, processing and visualization
+- 🤖 **AI & Automation** — LLM APIs, RAG, AI Agents and n8n
+- 🔌 **APIs & Backend** — integrating services and building application backends
 
 ---
 
-# 📌 Selected Projects
+## 🧰 Tech Stack
+
+**Frontend**
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Python & Data**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Web & Business Platforms**
+  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**AI & Automation**
+  
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+# 📌 Featured Project
 
 ## 🏠 Nariman Real Estate
-### Comprehensive Real Estate Management & Intelligent Matching Software
 
-A business management platform for real-estate companies, independently designed and developed from scratch.
+**Real Estate Management, CRM & Intelligent Property Matching Platform**
 
-**Key capabilities:**
-- Intelligent property-file management and matching
-- Advanced CRM
-- Customer management
-- Smart search
-- Automated property information delivery via WhatsApp
-- Contract management
-- User and consultant management
-- Capital management
-- Management dashboard
-- Advanced reporting
-- Charts and data analysis
-- Integrated management of real-estate business processes
+A business management platform designed and developed from scratch for real-estate companies.
 
-AI-powered features and an AI chatbot are planned for future development.
+### Core capabilities
 
+- 🏠 Property file management
+- 🧠 Intelligent property matching
+- 👥 CRM & customer management
+- 🔎 Advanced search and filtering
+- 💬 Property information sharing via WhatsApp
+- 📄 Contract management
+- 👤 User & consultant management
+- 💰 Capital management
+- 📊 Dashboard, reports and analytics
+- ⚙️ Real-estate business process management
+
+**Role:** Independent designer & developer  
 **Development:** ~4 months  
-**Role:** Independent design & development from scratch  
-**Status:** In development
+**Status:** In active development
+
+Planned additions include AI-powered features and an integrated AI assistant.
 
 ---
 
-## 🛒 NAX Shop
-Sports supplement e-commerce website developed from start to finish.
+# 🛍️ Selected Projects
 
-## ⌚ Asayesh Store
-Specialized watch e-commerce website developed end-to-end.
+### NAX Shop
+Sports supplement e-commerce website developed end-to-end.
 
-## 💎 ZarinShiraz
-E-commerce website for gold and jewelry.
+### Asayesh Store
+Specialized watch e-commerce website.
 
-## 👟 ShoesStoreShz
+### ZarinShiraz
+Gold and jewelry e-commerce website.
+
+### ShoesStoreShz
 Specialized footwear e-commerce website.
 
-## 💻 Parsa Electro
-E-commerce website for digital and electronic products.
+### Parsa Electro
+Digital and electronics e-commerce website.
 
-## 🔧 Bostani Abzar
-E-commerce website for tools and equipment.
+### Bostani Abzar
+Tools and equipment e-commerce website.
 
 ---
 
-# 💼 Experience
+# 💼 Freelance Experience
 
-## Freelance Web & Software Developer
+I work independently with real clients across:
 
-Independent development work for real clients across websites, e-commerce platforms, and custom software.
-
-Experience includes:
+- Website development
+- E-commerce
+- Custom business software
+- CRM & ERP systems
 - Requirements analysis
-- Technical solution planning
-- Project estimation and pricing
-- Design and development
-- Full project implementation
-- Customization and feature development
+- Technical planning
+- Project estimation
+- Custom feature development
 - AI-assisted development workflows
-- Project delivery
+- Deployment and delivery
 
 ---
 
-# 🧭 My Approach
+# 📚 Currently Learning & Building
 
-**Quality** — Building products with a professional structure and attention to quality.
-
-**Speed** — Delivering efficiently while maintaining quality.
-
-**Precision** — Paying attention to details and implementing requirements accurately.
-
-**Scalability** — Designing projects with future development and new features in mind.
-
-> My goal is not simply to deliver a website or software product, but to build solutions that are genuinely useful and valuable for businesses.
-
----
-
-# 📚 Currently Growing
+I'm continuously expanding toward full-stack and AI application development:
 
 - Advanced JavaScript & React
 - APIs & backend development
@@ -178,18 +132,23 @@ Experience includes:
 - n8n automation
 - FastAPI
 - Docker
-- AI-powered applications
+- Production-ready AI applications
 
 ---
 
-# 📫 Contact
+## 🎯 Long-Term Direction
+
+My goal is to grow from building individual websites and software into creating **scalable technology products and business solutions** under the **NARIMAN** brand.
+
+---
+
+## 📫 Contact
 
 **Nariman Nadimi**  
-Web Developer | Software Developer | Data & Python
+Web Developer • Software Developer • Python & Data • AI & Automation
 
-📧 **Email:** narimannadimi2009@gmail.com  
-📍 **Location:** Shiraz, Iran
+📧 **narimannadimi2009@gmail.com**
 
 ---
 
-⭐ Feel free to explore my repositories and follow my development journey.
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and follow my development journey.
